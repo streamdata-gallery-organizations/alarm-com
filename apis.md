@@ -1,6 +1,6 @@
 ---
 name: Alarm.com
-x-slug: alarmcom
+x-slug: alarm-com
 description: We are passionate about creating innovative technology that deepens the
   connection between people and the things they care about most &ndash; their homes,
   families and businesses. Millions of people trust Alarm.com every day for better
@@ -9,9 +9,9 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Alarm.com
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/alarm.com/master/_listings/alarmcom/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/alarm-com/master/_listings/alarm-com/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
